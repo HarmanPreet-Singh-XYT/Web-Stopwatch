@@ -12,7 +12,7 @@ A straightforward web-based stopwatch application built using HTML, CSS, and Jav
 
 ## Demo
 
-[Click here](link_to_live_demo) to see a live demo of the Simple Web Stopwatch.
+[Click here](https://harmanpreet-singh-xyt.github.io/Web-Stopwatch/) to see a live demo of the Simple Web Stopwatch.
 
 
 ## Contributions
