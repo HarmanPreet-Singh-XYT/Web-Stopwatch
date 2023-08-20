@@ -9,11 +9,16 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 .timer{
-    font-size: 10rem;
+    font-size: 6rem;
     font-weight: 700;
     color: #f92672;
     margin: 40px auto;
     text-shadow: 2px 2px 4px grey;
+}
+@media (min-width:864px){
+    .timer{
+        font-size: 10rem;
+    }
 }
 button{
     background-color: #f92672;
