@@ -10,6 +10,11 @@ A straightforward web-based stopwatch application built using HTML, CSS, and Jav
 
 - **Responsive Design:** The application's design adapts well to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 
+## Demo
+
+[Click here](link_to_live_demo) to see a live demo of the Simple Web Stopwatch.
+
+
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
